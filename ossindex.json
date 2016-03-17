@@ -1,3 +1,1 @@
-{
-
-}
+{  "author": "HAAS",  "title": "Avacado's Number",  "logo_url": "https://raw.githubusercontent.com/MyPureCloud/purecloud_api_sdk_csharp/master/csharp.png",  "categories": [    "fruit"  ],  "tags": [    "good fat",    "green",    "round-ish"  ],  "apis": [    "platform"  ],  "sdks": [    "C#"  ]}
